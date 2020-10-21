@@ -1,8 +1,7 @@
 body {
-  padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
 }
 
-a {
-  color: #00B7FF;
+.top-toolbar{
+  margin: 0 auto;
+  box-shadow: lightgray 1px 4px 5px;
 }
