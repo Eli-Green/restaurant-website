@@ -1,5 +1,5 @@
 body {
-  font-family: "Times New Roman";
+
 }
 
 .top-toolbar{
@@ -25,8 +25,13 @@ body {
 }
 
 .title-name{
-  margin-top: 20px;
+  margin-top: 10px;
   text-align: center;
+}
+
+.text-style-1{
+  font-size: 25pt;
+  align: center;
 }
 
 @font-face {
