@@ -1,0 +1,35 @@
+body {
+  font-family: "Times New Roman";
+}
+
+.top-toolbar{
+  font-family: Simplifica, sans-serif;
+  letter-spacing: 2px;
+  font-size: 30pt;
+  margin: 0 auto;
+  box-shadow: lightgray 1px 4px 5px;
+}
+
+.home-button{
+  color: black;
+  padding-right: 20px;
+}
+
+.test-block{
+  padding-bottom: 10in;
+  border: red 1px solid;
+}
+
+.test-border{
+  border: solid 1px blue;
+}
+
+.title-name{
+  margin-top: 20px;
+  text-align: center;
+}
+
+@font-face {
+  font-family: Simplifica;
+  src: url(../themes/fonts/simplifica.ttf);
+}
