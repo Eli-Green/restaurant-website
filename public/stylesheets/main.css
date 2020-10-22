@@ -85,10 +85,25 @@ body {
 
 }
 
-.text-style-5{
+.text-style-5 {
   font-size: 45pt;
   margin-top: 50px;
   margin-bottom: 100px;
+}
+
+.text-style-6{
+  font-family: Simplifica, sans-serif;
+  font-size: 24pt;
+  font-weight: bold;
+}
+
+.text-general-style-1{
+  font-weight: bold;
+  font-size: 18pt;
+}
+
+.test-div{
+  height: 30px;
 }
 
 .blank-1{
