@@ -22,7 +22,7 @@ body {
 }
 
 .row-style-1{
-  margin-bottom: 40px;
+  margin-bottom: 170px;
   margin-top: 40px;
 }
 
@@ -49,6 +49,17 @@ body {
   color: dimgray;
 }
 
+.day-format{
+  font-size: 25pt;
+  color: black;
+}
+
+.hours-format{
+  font-size: 20pt;
+  color: black;
+  font-weight: bold;
+}
+
 .text-style-1{
   font-size: 35pt;
   font-weight: bold;
@@ -57,8 +68,30 @@ body {
 
 .text-style-2{
   font-size: 20pt;
-  color: darkgray;
+  color: dimgray;
   margin-bottom: 5px;
+  margin-top: 50px;
+}
+
+.text-style-3{
+  font-size: 30pt;
+  color: black;
+  font-weight: bold;
+  justify-content: center;
+  margin-bottom: 30px;
+}
+
+.text-style-4{
+
+}
+
+.text-style-5{
+  font-size: 45pt;
+  margin-top: 50px;
+  margin-bottom: 100px;
+}
+
+.blank-1{
   margin-top: 50px;
 }
 
