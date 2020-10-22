@@ -10,9 +10,25 @@ body {
   box-shadow: lightgray 1px 4px 5px;
 }
 
+.bottom-toolbar{
+  font-family: Simplifica, sans-serif;
+  letter-spacing: 2px;
+  font-size: 30pt;
+  margin: 25px 0 0 0;
+}
+
 .home-button{
   color: black;
   padding-right: 20px;
+}
+
+.home-button-2{
+  color: white;
+  padding-right: 20px;
+}
+
+.footer-nav-button{
+  color: lightgray;
 }
 
 .button-style-1{
@@ -49,6 +65,20 @@ body {
   color: dimgray;
 }
 
+.shift-left{
+  position: relative;
+  left: -80px;
+}
+
+.shift-right{
+  position: relative;
+  left: 80px;
+}
+
+.seperator{
+  height: 70px;
+}
+
 .day-format{
   font-size: 25pt;
   color: black;
@@ -82,13 +112,14 @@ body {
 }
 
 .text-style-4{
-
+  font-size: 17pt;
 }
 
 .text-style-5 {
   font-size: 45pt;
-  margin-top: 50px;
-  margin-bottom: 100px;
+  font-weight: bold;
+  margin-top: 0px;
+  margin-bottom: 120px;
 }
 
 .text-style-6{
