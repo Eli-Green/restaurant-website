@@ -1,18 +1,29 @@
 body {
-
+  font-family: Simplifica, sans-serif;
 }
 
 .top-toolbar{
   font-family: Simplifica, sans-serif;
   letter-spacing: 2px;
   font-size: 30pt;
-  margin: 0 auto;
+  margin: 0 0 25px 0;
   box-shadow: lightgray 1px 4px 5px;
 }
 
 .home-button{
   color: black;
   padding-right: 20px;
+}
+
+.button-style-1{
+  font-size: 20pt;
+  font-weight: bold;
+  padding: 30px;
+}
+
+.row-style-1{
+  margin-bottom: 40px;
+  margin-top: 40px;
 }
 
 .test-block{
@@ -27,11 +38,28 @@ body {
 .title-name{
   margin-top: 10px;
   text-align: center;
+  margin-bottom: 50px;
+  font-family: Simplifica, sans-serif;
+  font-size: 70pt;
+  font-weight: bold;
+}
+
+.or{
+  font-size: 25pt;
+  color: dimgray;
 }
 
 .text-style-1{
-  font-size: 25pt;
-  align: center;
+  font-size: 35pt;
+  font-weight: bold;
+  padding-bottom: 20px;
+}
+
+.text-style-2{
+  font-size: 20pt;
+  color: darkgray;
+  margin-bottom: 5px;
+  margin-top: 50px;
 }
 
 @font-face {
