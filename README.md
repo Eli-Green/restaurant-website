@@ -1,9 +1,9 @@
 # restaurant-website
 Website created with a focus on practicing HTML and CSS
-The website is a basic fake burger resaurant's homepage
+The website is for a fake burger company.
 
 Note: The checkout is not functional because we had not learned Javascript before the midterm
 
 
 Link to website:
-https://hidden-castle-24638.herokuapp.com/restaurant/
+https://theburgerco.herokuapp.com/restaurant/
